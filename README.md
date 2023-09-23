@@ -67,3 +67,18 @@ Quer fazer parte desse projeto? leia [como contribuir](CONTRIBUTING.md).
 ## Licença
 
 Este projeto é licenciado sob a Licença MIT. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
+
+## Referências
+
+Veja as principais referências que foram utilizadas para a construção dessa apresentação. 
+
+### Imagens utilizadas na apresentação
+
+Veja abaixo a listagem das referências relacionadas as imagens utilizadas:
+
+- Foto de praias deslumbrantes feita por [Ystallonne Alves](https://unsplash.com/pt-br/@ystallonne?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) na [Unsplash](https://unsplash.com/pt-br/fotografias/7VWcujLDF2o?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+- Foto da pedra furada retirada do site [Melhores Destinos](https://guia.melhoresdestinos.com.br/pedra-furada-17-149-l.html)
+- Foto do cânion do xingó feita por [Vladimir Soares](https://unsplash.com/pt-br/@vlad_soares?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) na [Unsplash](https://unsplash.com/pt-br/fotografias/vt36W7A5m3I?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+- Foto da Arara-azul-de-lear retirada do site [Bilderpuzzle](https://www.bilderpuzzle.de/puzzle-farbenfrohe-papageien-hyazinth-ara.-1000-teile-puzzle-hyazinth-ara-anodorhynchus-hyacinthinu)
+- Foto das comidas típicas do Nordeste retirada do site [Accor](https://ibis.accor.com/pt-br/editorial/article/pratos-tipicos-culinaria-nordestina-5-7944-v7019.shtml)
+- Foto das diferentes manifestações artísticas retirada do site [Brasil Escola](https://brasilescola.uol.com.br/brasil/aspectos-culturais-regiao-nordeste.htm)
