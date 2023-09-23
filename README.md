@@ -10,6 +10,23 @@ Este é o meu primeiro experimento com a ferramenta Marp, que permite gerar slid
 
 Meu principal objetivo com este repositório é aprender como usar a ferramenta e compartilhar uma apresentação sobre as Maravilhas Naturais do Nordeste Brasileiro.
 
+## Apresentação
+
+A apresentação contém informações sobre as seguintes tópicos:
+
+- Praias Deslumbrantes
+- Formações Rochosas
+- Cânions e Cachoeiras
+- Biodiversidade Rica
+- Sabores do Nordeste
+- Artesanato e Cultura
+
+Este projeto utiliza automações de CI/CD para processar as informações automaticamente sempre que houver alterações na branch `main`. Isso significa que, ao fazer push das alterações para a branch principal, o sistema irá automaticamente exportar a apresentação para o formato HTML.
+
+![Google Chrome - Light](https://github.com/ReinanHS/marp-example-presentation/assets/28494067/e46db1e1-0f1c-4f13-b669-5775227bfa6c)
+
+Para visualizar a apresentação no seu navegador, [clique neste link](https://reinanhs.github.io/marp-example-presentation/). 
+
 ## Como Usar
 
 1. Clone este repositório para a sua máquina local usando o comando abaixo:
@@ -28,18 +45,6 @@ docker run --rm --init -v "${PWD}:/home/marp/app/" marpteam/marp-cli slide-deck.
 ```
 
 6. No final da execução, será gerado o arquivo `slide-deck.pdf` na raiz do seu projeto.
-
-## Apresentação
-
-A apresentação contém informações sobre as seguintes tópicos:
-
-- Praias Deslumbrantes
-- Formações Rochosas
-- Cânions e Cachoeiras
-- Biodiversidade Rica
-- Sabores do Nordeste
-- Artesanato e Cultura
-- 
 
 ## Software stack
 
