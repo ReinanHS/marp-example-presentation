@@ -8,7 +8,7 @@ footer: 'Exemplo de footer'
 
 # Explorando as Maravilhas Naturais do Nordeste Brasileiro
 
-<span style="color:grey">Feito por</span> Reinan Gabriel
+Feito por Reinan Gabriel
 
 ---
 
@@ -59,7 +59,7 @@ Além das belezas naturais, o Nordeste brasileiro também é conhecido por sua r
 
 ---
 
-![bg left](img/bumba-meu-boi-elemento-da-cultura-do-nordeste.jpg)
+![bg left](img/rendas-de-bilro.jpg)
 
 # Artesanato e Cultura
 
